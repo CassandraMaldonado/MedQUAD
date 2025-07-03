@@ -1,5 +1,3 @@
-# MedQUAD 
-# Medical Question Answering Assistant
+# Medical Question Answering with TREC LiveQA Data
 
-A RAG application built on the MedQuAD dataset, designed to answer medical inquiries by combining an optimized in-memory search engine with LLM prompt engineering and a Flask API.
-
+This repo leverages the TREC 2017 LiveQA-Medical dataset to explore medical question answering using retrieval-based techniques. The dataset provides real-world, consumer health questions and curated answers, offering a valuable foundation for training and evaluating QA systems.
