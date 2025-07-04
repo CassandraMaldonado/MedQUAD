@@ -29,5 +29,5 @@ This dataset is ideal for:
 
 This repo explores medical question answering using the TREC 2017 LiveQA-Medical dataset, which contains real world consumer health questions and expert reviwed answers. The goal is to preprocess and structure this dataset for downstream tasks such as information retrieval, question classification and evaluation of medical QA systems.
 
-
+The dataset includes more than 100 user-submitted medical questions, each annotated with a paraphrased version, medical topic and semantic metadata like question type (treatment, cause, symptom) and focus (diseases, medicine). Additionally, each question is paired with one or more reference answers that are sourced from authoritative websites such as MedlinePlus or PubMed, along with comments that assess the relevance or quality of each response.
 
