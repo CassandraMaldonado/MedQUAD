@@ -25,3 +25,27 @@ This dataset is ideal for:
 
 - Clinical research.
 
+## Notebook Features
+
+- XML Parsing.
+
+Reads and extracts structured data from the annotated XML file
+
+Handles elements such as: questions, summaries, reference answers, and focus annotations
+
+Exploratory Data Analysis
+
+Extracts metadata like question types, answer counts, and topical distributions
+
+Prints or visualizes sample Q&A pairs
+
+Data Structuring
+
+Converts XML content into usable Python dicts or DataFrames for downstream tasks
+
+Preprocessing for ML/NLP
+
+(Optional) You can expand it to build training corpora, embeddings, or retrieval evaluation sets
+
+
+
