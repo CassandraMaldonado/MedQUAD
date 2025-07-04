@@ -31,3 +31,4 @@ This repo explores medical question answering using the TREC 2017 LiveQA-Medical
 
 The dataset includes more than 100 user-submitted medical questions, each annotated with a paraphrased version, medical topic and semantic metadata like question type (treatment, cause, symptom) and focus (diseases, medicine). Additionally, each question is paired with one or more reference answers that are sourced from authoritative websites such as MedlinePlus or PubMed, along with comments that assess the relevance or quality of each response.
 
+The repo is designed to parse the XML file and extract its rich structure into usable Python formats such as dictionaries or dataframes. It includes utilities to explore the content, count the number of answers per question, visualize question categories and prepare the data for integration into retrieval based or QA systems. 
